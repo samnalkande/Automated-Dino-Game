@@ -9,3 +9,7 @@ Packages you need to install :
 Sometimes it won't work you need to change size of i and j 
 This will change size of rectange which will make it more efficient
 
+# packages impoted 
+1)time 
+2)pyautogui:You need to install it using pip install pillow
+3)
